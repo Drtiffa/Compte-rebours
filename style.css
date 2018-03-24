@@ -1,0 +1,17 @@
+body {
+    background-color: #ea8685; 
+}
+
+h1 {
+    text-align: center;
+    margin-top: 150px;
+    color: #4b6584;
+    font-size: 40px;
+}
+
+#compte_a_rebours {
+    text-align: center;
+    margin: 150px 0px;
+    font-size: 40px;
+    color: #63cdda;
+}
